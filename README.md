@@ -1,5 +1,6 @@
 # ★ README 작성방법 ★
 
+Read me 수정 후 Preview 의 Show diff 선택 시 변경된 내용을 확인할 수 있어요
 
 ### 가로줄
 - 또는 * 을 3개 이상 입력
