@@ -78,7 +78,7 @@ int sum(int x, int y){
 <a href = "https://www.naver.com" target = "_blank"> 네이버 새창에서 열기 </a>
 
 ### 이미지 삽입
-해당 레파지토리에 이미지를 업로드 한 뒤 ![설명메세지].(./파일명)
+해당 레파지토리에 이미지를 업로드 한 뒤 ![설명메세지](./파일명)
 
-![물망초].(./flower)
+![물망초](./flower.jpg)
 
