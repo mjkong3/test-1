@@ -77,4 +77,8 @@ int sum(int x, int y){
 
 <a href = "https://www.naver.com" target = "_blank"> 네이버 새창에서 열기 </a>
 
+### 이미지 삽입
+read me 에 올라갈 이미지는 온라인에 올라와 있어야 함
+
+
 
