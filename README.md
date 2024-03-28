@@ -67,11 +67,11 @@ int sum(int x, int y){
 2. [텍스트](주소) : 텍스트만 출력되고 텍스트 클릭 시 주소로 이동
 3. [텍스트](주소, "부가설명") : 텍스트 위에 커서를 올리면 부가설명이 말풍선으로 표시됨
 
-<https://www.nwver.com>
+<https://www.naver.com>
 
 [네이버](https://www.naver.com)
 
-[네이버](https://www.never.com, "클릭 시 네이버로 이동")
+[네이버](https://www.naver.com, "클릭 시 네이버로 이동")
 
 [네이버새창] : https://www.naver.com
 
